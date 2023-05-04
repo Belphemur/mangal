@@ -20,7 +20,7 @@ require (
 	github.com/muesli/reflow v0.3.0
 	github.com/nickalie/go-binwrapper v0.0.0-20190114141239-525121d43c84
 	github.com/nickalie/go-webpbin v0.0.0-20220110095747-f10016bf2dc1
-	github.com/pdfcpu/pdfcpu v0.3.13
+	github.com/pdfcpu/pdfcpu v0.4.0
 	github.com/samber/lo v1.38.1
 	github.com/samber/mo v1.8.0
 	github.com/sirupsen/logrus v1.9.0
