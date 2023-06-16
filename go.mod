@@ -10,7 +10,7 @@ require (
 	github.com/charmbracelet/lipgloss v0.7.1
 	github.com/darylhjd/mangodex v0.0.0-20211231093527-e4a91c518fa0
 	github.com/dustin/go-humanize v1.0.1
-	github.com/go-rod/rod v0.112.6
+	github.com/go-rod/rod v0.113.1
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/google/uuid v1.1.2
 	github.com/invopop/jsonschema v0.7.0
@@ -93,7 +93,9 @@ require (
 	github.com/temoto/robotstxt v1.1.2 // indirect
 	github.com/ulikunitz/xz v0.5.11 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
+	github.com/ysmood/fetchup v0.2.3 // indirect
 	github.com/ysmood/goob v0.4.0 // indirect
+	github.com/ysmood/got v0.34.1 // indirect
 	github.com/ysmood/leakless v0.8.0 // indirect
 	github.com/yuin/gluamapper v0.0.0-20150323120927-d836955830e7 // indirect
 	golang.org/x/net v0.10.0 // indirect
