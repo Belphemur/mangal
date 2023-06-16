@@ -10,7 +10,7 @@ require (
 	github.com/charmbracelet/lipgloss v0.7.1
 	github.com/darylhjd/mangodex v0.0.0-20211231093527-e4a91c518fa0
 	github.com/dustin/go-humanize v1.0.1
-	github.com/go-rod/rod v0.112.6
+	github.com/go-rod/rod v0.113.3
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/google/uuid v1.1.2
 	github.com/invopop/jsonschema v0.7.0
