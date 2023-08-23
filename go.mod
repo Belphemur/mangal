@@ -23,7 +23,7 @@ require (
 	github.com/nickalie/go-binwrapper v0.0.0-20190114141239-525121d43c84
 	github.com/nickalie/go-webpbin v0.0.0-20220110095747-f10016bf2dc1
 	github.com/oliamb/cutter v0.2.2
-	github.com/pdfcpu/pdfcpu v0.3.13
+	github.com/pdfcpu/pdfcpu v0.5.0
 	github.com/samber/lo v1.38.1
 	github.com/samber/mo v1.8.0
 	github.com/sirupsen/logrus v1.9.3
@@ -58,8 +58,8 @@ require (
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gopherjs/gopherjs v1.17.2 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
-	github.com/hhrutter/lzw v0.0.0-20190829144645-6f07a24e8650 // indirect
-	github.com/hhrutter/tiff v0.0.0-20190829141212-736cae8d0bc7 // indirect
+	github.com/hhrutter/lzw v1.0.0 // indirect
+	github.com/hhrutter/tiff v1.0.1 // indirect
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
@@ -70,7 +70,7 @@ require (
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.18 // indirect
 	github.com/mattn/go-localereader v0.0.1 // indirect
-	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/mattn/go-runewidth v0.0.15 // indirect
 	github.com/mgutz/ansi v0.0.0-20200706080929-d51e80ef957d // indirect
 	github.com/mholt/archiver v3.1.1+incompatible // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
@@ -82,7 +82,7 @@ require (
 	github.com/pelletier/go-toml/v2 v2.0.8 // indirect
 	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/rivo/uniseg v0.4.3 // indirect
+	github.com/rivo/uniseg v0.4.4 // indirect
 	github.com/sahilm/fuzzy v0.1.0 // indirect
 	github.com/saintfish/chardet v0.0.0-20230101081208-5e3ef4b5456d // indirect
 	github.com/smarty/assertions v1.15.0 // indirect
