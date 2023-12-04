@@ -24,7 +24,7 @@ require (
 	github.com/nickalie/go-webpbin v0.0.0-20220110095747-f10016bf2dc1
 	github.com/oliamb/cutter v0.2.2
 	github.com/pdfcpu/pdfcpu v0.3.13
-	github.com/samber/lo v1.38.1
+	github.com/samber/lo v1.39.0
 	github.com/samber/mo v1.11.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/smartystreets/goconvey v1.8.1
