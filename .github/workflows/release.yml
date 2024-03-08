@@ -28,7 +28,7 @@ jobs:
       - name: Fetch all tags
         run: git fetch --force --tags
       - name: Setup Golang with cache
-        uses: magnetikonline/action-golang-cache@v4
+        uses: magnetikonline/action-golang-cache@v5
         with:
           go-version-file: go.mod
       - name: Set up Docker Buildx
