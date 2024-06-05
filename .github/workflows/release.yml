@@ -49,7 +49,7 @@ jobs:
       - name: Generate Release Notes
         run: python ./.github/scripts/generate-release-notes.py # outputs a file named "changelog-temp.md"
       - name: Run GoReleaser
-        uses: goreleaser/goreleaser-action@v5
+        uses: goreleaser/goreleaser-action@v6
         with:
           distribution: goreleaser
           version: nightly
